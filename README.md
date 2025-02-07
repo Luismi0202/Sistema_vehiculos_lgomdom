@@ -1,2 +1,2 @@
 # Sistema_vehiculos_lgomdom!
-![image](./image)
+![image](./image.png)
